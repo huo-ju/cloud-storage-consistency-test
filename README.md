@@ -1,7 +1,7 @@
 cloud-storage-consistency-test
 ==============================
 
-a cmd script for test the file consistency on the cloud. It could be use for s3fs or other fuse based tool test.
+a python script for test the file consistency on the cloud. It could be use for s3fs or other fuse based tool test.
 
 Usage: cst.py cmd [path] [num] [size(k)]
 
